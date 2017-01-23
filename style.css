@@ -1,7 +1,8 @@
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
   background-color: #E5E6D3;
   color: #255714;
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 16px;
 }
 
 .container {
@@ -9,30 +10,30 @@ body {
 }
 
 header {
-  border-bottom: 2px solid #D7D8D3;
-  padding: 2em 0;
-  margin-bottom: 3em;
-}
-
-h1, .tagline {
+  border-bottom: 1px solid #D7D8D3;
+  padding: 36px 0 24px 0;
+  margin-bottom: 32px;
   text-align: center;
 }
 
-h2 {
-  font-size: 2em;
+h1 {
+  font-size: 60px;
+  margin-bottom: 5px;
 }
 
-p, li {
-  font-size: 16px;
+h2 {
+  font-size: 32px;
+  margin-top: 50px;
 }
 
 .tagline {
-  font-size: 1.2em;
+  font-size: 20px;
 }
 
 blockquote {
   background-color: #fff;
   border-left: 3px solid #CC6699;
-  font-size: 1.5em;
-  padding: 1em;
+  font-size: 22px;
+  padding: 30px 36px;
+  margin: 30px 20px;
 }
